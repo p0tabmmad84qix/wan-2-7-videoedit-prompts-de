@@ -97,6 +97,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [wan-2-7-videoedit-api-de](https://github.com/p0tabmmad84qix/wan-2-7-videoedit-api-de)
+- **Same model, other languages** — 9 more language builds: 中文 `wan-2-7-videoedit-api-cn` · Español [wan-2-7-videoedit-api-es](https://github.com/a1bvc/wan-2-7-videoedit-api-es) · Français [wan-2-7-videoedit-api-fr](https://github.com/sg40e98dutpek/wan-2-7-videoedit-api-fr) · Relay/gateway `wan-2-7-videoedit-api-gateway` · Bahasa [wan-2-7-videoedit-api-id](https://github.com/k7v530p627/wan-2-7-videoedit-api-id) · 日本語 [wan-2-7-videoedit-api-ja](https://github.com/a04qbov86mrd/wan-2-7-videoedit-api-ja) · 한국어 `wan-2-7-videoedit-api-ko` · Português `wan-2-7-videoedit-api-pt` · Русский [wan-2-7-videoedit-api-ru](https://github.com/f60ozqblr0/wan-2-7-videoedit-api-ru)
+- **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
+- **Topic hubs** — every build of this model, all languages: [wan-2-7-videoedit](https://github.com/topics/wan-2-7-videoedit) · [wan-2-7-videoedit-api](https://github.com/topics/wan-2-7-videoedit-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
